@@ -50,7 +50,7 @@ export default function Footer() {
             <ul className="mt-4 space-y-2">
               <li className="flex items-center text-gray-600">
                 <Mail className="h-5 w-5 mr-2 text-blue-500" />
-                <span>support@paytogether.com</span>
+                <span>kbtcoe.org</span>
               </li>
               <li className="flex items-center text-gray-600">
                 <Phone className="h-5 w-5 mr-2 text-blue-500" />
